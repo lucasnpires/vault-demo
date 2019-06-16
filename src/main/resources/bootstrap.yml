@@ -1,0 +1,12 @@
+spring: 
+  cloud: 
+    vault: 
+      token: myroot
+      scheme: http
+      host: 192.168.99.100
+      port: 8200
+      kv:
+       enabled: true
+       backend: codeinvestigator
+       backend-version: 2
+       application-name: demoapp

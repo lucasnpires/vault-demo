@@ -1,0 +1,6 @@
+#spring.data.mongodb.database=vaultdemo
+#spring.data.mongodb.host=192.168.99.100
+#spring.data.mongodb.port=28017
+#spring.data.mongodb.username=bondjamesbond
+#spring.data.mongodb.password=007isthepassword
+#spring.data.mongodb.authentication-database=admin
